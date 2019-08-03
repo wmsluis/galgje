@@ -7,4 +7,4 @@ opgeslagen in een file. Iedere regel bevat één woord en ieder woord is minsten
 
 De file galgje.py bevat een class met een toestandsmachine die het spel door de
 verschillende toestanden heen loodst. De toestand is steeds een string waarvoor
-ook een method bestaat.
+ook een methode bestaat.
